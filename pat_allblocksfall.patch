@@ -1,0 +1,4 @@
+[
+  { "op": "add", "path": "/falling", "value": true },
+  { "op": "add", "path": "/cascading", "value": true }
+]

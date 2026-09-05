@@ -1,0 +1,16 @@
+{
+  "author" : "pat",
+  "description" : "patches all blocks to be able to fall and \"cascade\", resulting in them not staying as static blocks. this won't help with game/server stability. if a tile-protected area is relying on this lack of functionality, it may be a good idea to use this mod.\n\nspecific blocks cannot be blacklisted if necessary\n\n\nrequires openstarbound",
+  "friendlyName" : "All Falling and Cascading Blocks",
+  "link" : "steam://url/CommunityFilePage/3796400895",
+  "name" : "pat_allblocksfall",
+  "priority" : 1.79769e+308,
+  "scripts" : {
+    "postLoad" : ["/pat_allblocksfall.lua"]
+  },
+  "steamContentId" : "3796400895",
+  "steamDescription" : "requires [url=https://github.com/OpenStarbound/OpenStarbound]OpenStarbound[img]https://i.imgur.com/GlY6bda.png[/img][/url]\n\npatches all blocks to be able to fall and \"cascade\", resulting in them not staying as static blocks. this won't help with game/server stability. if a tile-protected area is relying on this lack of functionality, it may be a good idea to use this mod.\n\nspecific blocks cannot be blacklisted if necessary\n\njoin brongus\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\nlook at it on gibhut\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/all-blocks-fall\ngive me money\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf",
+  "steamTitle" : "All Falling and Cascading Blocks[OpenSB]",
+  "tags" : "Miscellaneous",
+  "version" : "1.0"
+}
